@@ -15,7 +15,7 @@
 package pkg
 
 import (
-	"github.com/edgexfoundry/go-mod-core-contracts/v3/common"
+	"github.com/agile-edgex/go-mod-core-contracts/v3/common"
 )
 
 // Defines the valid secret store providers.
