@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg"
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg/types"
-	"github.com/agile-edgex/go-mod-secrets/v3/secrets"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v3/secrets"
 )
 
 const (

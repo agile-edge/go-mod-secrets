@@ -1,9 +1,9 @@
-module github.com/agile-edgex/go-mod-secrets/v3
+module github.com/agile-edge/go-mod-secrets/v3
 
 go 1.21
 
 require (
-	github.com/agile-edgex/go-mod-core-contracts/v3 v3.1.2
+	github.com/agile-edge/go-mod-core-contracts/v3 v3.1.3
 	github.com/spiffe/go-spiffe/v2 v2.1.6
 	github.com/stretchr/testify v1.8.4
 )

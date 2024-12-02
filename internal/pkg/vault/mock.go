@@ -21,7 +21,7 @@ import (
 	"net/http/httptest"
 	"sync"
 
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg/types"
 )
 
 // GetMockTokenServer returns a stub http test server for dealing with token lookup-self and renew-self API calls

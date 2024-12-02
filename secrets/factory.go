@@ -18,11 +18,11 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/agile-edgex/go-mod-secrets/v3/internal/pkg/vault"
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg"
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v3/internal/pkg/vault"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg/types"
 
-	"github.com/agile-edgex/go-mod-core-contracts/v3/clients/logger"
+	"github.com/agile-edge/go-mod-core-contracts/v3/clients/logger"
 )
 
 const Vault = "vault"

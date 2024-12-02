@@ -19,7 +19,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/agile-edgex/go-mod-secrets/v3/secrets"
+	"github.com/agile-edge/go-mod-secrets/v3/secrets"
 )
 
 // InMemoryCacheListener handles retrieving and storing secrets from a secret store

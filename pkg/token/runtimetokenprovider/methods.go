@@ -28,9 +28,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/agile-edgex/go-mod-core-contracts/v3/clients/logger"
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg"
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg/types"
+	"github.com/agile-edge/go-mod-core-contracts/v3/clients/logger"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg/types"
 	"github.com/spiffe/go-spiffe/v2/spiffeid"
 	"github.com/spiffe/go-spiffe/v2/spiffetls/tlsconfig"
 	"github.com/spiffe/go-spiffe/v2/workloadapi"

@@ -24,9 +24,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/agile-edgex/go-mod-core-contracts/v3/clients/logger"
+	"github.com/agile-edge/go-mod-core-contracts/v3/clients/logger"
 
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg/token/fileioperformer"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg/token/fileioperformer"
 )
 
 const httpClientTimeoutDuration = 10 * time.Second

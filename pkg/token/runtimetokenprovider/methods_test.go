@@ -25,8 +25,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/agile-edgex/go-mod-core-contracts/v3/clients/logger"
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg/types"
+	"github.com/agile-edge/go-mod-core-contracts/v3/clients/logger"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg/types"
 	"github.com/stretchr/testify/require"
 )
 

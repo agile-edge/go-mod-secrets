@@ -18,7 +18,7 @@ package secrets
 import (
 	"context"
 
-	"github.com/agile-edgex/go-mod-secrets/v3/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v3/pkg/types"
 )
 
 // SecretClient provides a contract for storing and retrieving secrets from a secret store provider.
