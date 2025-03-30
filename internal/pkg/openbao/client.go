@@ -24,10 +24,10 @@ import (
 	"os"
 	"sync"
 
-	"github.com/edgexfoundry/go-mod-secrets/v4/pkg"
-	"github.com/edgexfoundry/go-mod-secrets/v4/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v4/pkg"
+	"github.com/agile-edge/go-mod-secrets/v4/pkg/types"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v4/clients/logger"
+	"github.com/agile-edge/go-mod-core-contracts/v4/clients/logger"
 )
 
 // Client defines the behavior for interacting with the OpenBao REST secret key/value store via HTTP(S).

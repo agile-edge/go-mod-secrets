@@ -25,10 +25,10 @@ import (
 	"path"
 	"time"
 
-	"github.com/edgexfoundry/go-mod-secrets/v4/pkg"
-	"github.com/edgexfoundry/go-mod-secrets/v4/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v4/pkg"
+	"github.com/agile-edge/go-mod-secrets/v4/pkg/types"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v4/clients/logger"
+	"github.com/agile-edge/go-mod-core-contracts/v4/clients/logger"
 )
 
 // a map variable to handle the case of the same caller to have

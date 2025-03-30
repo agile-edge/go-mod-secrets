@@ -20,7 +20,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/edgexfoundry/go-mod-secrets/v4/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v4/pkg/types"
 )
 
 func (c *Client) CreateToken(token string, parameters map[string]any) (map[string]any, error) {

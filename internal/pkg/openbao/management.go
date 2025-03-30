@@ -24,7 +24,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/edgexfoundry/go-mod-secrets/v4/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v4/pkg/types"
 )
 
 func (c *Client) HealthCheck() (int, error) {

@@ -16,7 +16,7 @@
 package openbao
 
 import (
-	"github.com/edgexfoundry/go-mod-secrets/v4/pkg/types"
+	"github.com/agile-edge/go-mod-secrets/v4/pkg/types"
 )
 
 const (
