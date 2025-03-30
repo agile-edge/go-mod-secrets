@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+glide.lock
+*.DS_Store
+
+# binary files
+*.log
+*.exe
+
+# log dirs
+**/logs
+
+coverage.out
+VERSION
